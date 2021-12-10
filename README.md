@@ -3,16 +3,17 @@
 <h1 align="center">Hi 👋, I'm Tansel</h1>
 <h3 align="center">A JavaScript lover from Ankara, Turkey.</h3>
     
-<h5 align="left">
+<h4 align="left">
 I've been working to improve myself in the software development field for the past year. I started my learning process with .NetCore, then I worked on Angular but I found my self on Node.js..
-</h5>
+</h4>
+
+<hr>
 
 
 
+- 🌱 I’m currently learning **Node.js, Javascript, React.js**
 
-- 🌱 I’m currently learning **Node.js, Javascript, React.js **
-
-- 💬 Ask me about **Javascript, Html, Css **
+- 💬 Ask me about **Javascript, Html, Css**
 
 - 📫 How to reach me **tanselberkant@gmail.com**
 
