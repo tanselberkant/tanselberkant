@@ -9,7 +9,7 @@ I've been working to improve myself in the software development field for the pa
 
 
 
-- 🌱 I’m currently learning **Node.js, Javascript, React.js**
+- 🌱 I’m currently learning **Node.js, Javascript**
 
 - 💬 Ask me about **Javascript, Html, Css**
 
