@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Tansel</h1>
 <h3 align="center">A JavaScript lover from Ankara, Turkey.</h3>
     
