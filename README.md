@@ -49,4 +49,4 @@ I've been working to improve myself in the software development field for the pa
 
 
 <!-- GitHub Stats -->  
-<img height="132em" src="https://github-readme-stats.vercel.app/api?username=tanselberkant&&theme=darcula&show_icons=true&hide_border=true" /> <img height="132em"  src="https://github-readme-streak-stats.herokuapp.com/?user=tanselberkant&theme=darcula" alt="aycanogut" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanselberkant&show_icons=true&theme=nightowl&layout=compact" alt="tanselberkant" /><img height="164em" src="https://github-readme-stats.vercel.app/api?username=tanselberkant&&theme=nightowl&show_icons=true&hide_border=false" /> 
