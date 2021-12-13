@@ -13,7 +13,7 @@ I've been working to improve myself in the software development field for the pa
 
 - 💬 Ask me about **Javascript, Html, Css**
 
-- 📫 How to reach me **tanselberkant@gmail.com**
+- 📫 Reach me at: **tanselberkant@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
