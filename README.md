@@ -2,17 +2,14 @@
 <h3 align="center">A JavaScript lover from Ankara, Turkey.</h3>
     
 <h4 align="left">
-I've been working to improve myself in the software development field for the past year. I started my learning process with .NetCore, then I worked on Angular but I found my self on Node.js..
+I've been working to improve myself in the software development field for the past year. Currently working on MERN stack.
 </h4>
 
 <hr>
 
 
 
-- 🌱 I’m currently learning **Node.js - GraphQL**
-
-- 💬 Ask me about **Javascript, Html, Css**
-
+- 🌱 I’m currently learning <strong> React.js  </strong> 
 - 📫 Reach me at: **tanselberkant@gmail.com**
 
 
