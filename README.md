@@ -10,6 +10,7 @@ I've been working to improve myself in the software development field for the pa
 
 
 - 🌱 I’m currently learning <strong> React.js  </strong> 
+- 📝 You can check my articles on [My Medium Page](https://medium.com/@tanselberkant) 
 - 📫 Reach me at: **tanselberkant@gmail.com**
 
 
@@ -18,7 +19,9 @@ I've been working to improve myself in the software development field for the pa
 <a href="https://linkedin.com/in/tanselberkantoflaz" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="tanselberkant" height="30" width="30" /></a>
 <a href="https://instagram.com/tanselberkant" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="tanselberkant" height="30" width="30" /></a>
 <a href="https://twitter.com/tanselberkant" target="blank"><img align="center" src="https://www.createchallenge.org/images/logo-twitter.png/@@images/b588afe1-9051-46e9-b16c-09ba486fcc44.png" alt="tanselberkant" height="30" width="32" /></a>
+<a href="https://medium.com/@tanselberkant" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tanselberkant" height="32" width="40" /></a>
 </p>
+
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
