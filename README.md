@@ -1,52 +1,37 @@
 <h1 align="center">Hi 👋, I'm Tansel</h1>
-<h3 align="center">A JavaScript lover from Ankara, Turkey.</h3>
-    
-<h4 align="left">
-I've been working to improve myself in the software development field for the past year. Currently working on MERN stack.
-</h4>
 
-<hr>
+### Frontend developer at [Rexven][Rexven] who likes javascript and hockey 🏒
 
+<br />
 
+👯 Enthusiastic Frontend Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills. <br />
+📝 Believes in the importance of learning new things every day. <br />
+👨🏼‍💻 Building [tanselberkant.dev][website]  <br />
+💜 loving [typescript][typescript], [react][react],  and [tailwind][tailwind]  <br/> 
 
-- 🌱 I’m currently learning <strong> React.js  </strong> 
-- 📝 You can check my articles on [My Medium Page](https://medium.com/@tanselberkant) 
-- 📫 Reach me at: **tanselberkant@gmail.com**
+📫 How to reach me;<br>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=tanselberkant@gmail.com)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanselberkantoflaz/)
 
+<h3>My Latest Posts</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tanselberkantoflaz" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="tanselberkant" height="30" width="30" /></a>
-<a href="https://twitter.com/tanselberkant" target="blank"><img align="center" src="https://www.createchallenge.org/images/logo-twitter.png/@@images/b588afe1-9051-46e9-b16c-09ba486fcc44.png" alt="tanselberkant" height="30" width="32" /></a>
-<a href="https://medium.com/@tanselberkant" target="blank" rel=”noopener”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tanselberkant" height="32" width="40" /></a>
-</p>
+- <a href="https://tanselberkant.dev/posts/react-activity-calendar-for-github-activities">Visualizing Github Activity With React Activity Calendar</a> <br />
+- <a href="https://tanselberkant.dev/posts/implementing-react-toastify-in-real-life-applications">Implementing React Toastify in Real-life Applications</a> <br />
+- <a href="https://tanselberkant.dev/posts/table-export-example-in-chrome-extensions">Table Export Example In Chrome Extensions</a>
 
 
-<h3 align="left">Technologies:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="38" height="38"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="34" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">Tools:</h3>
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
-<a href="https://discord.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
-</p>
 
 
 
 <!-- GitHub Stats -->  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanselberkant&layout=compact&theme=tokyonight" />
 <!-- <img height="164em" src="https://github-readme-stats.vercel.app/api?username=tanselberkant&count_private=true&show_icons=true&theme=tokyonight" > -->
+
+
+
+[website]: https://tanselberkant.dev
+[Rexven]: https://www.linkedin.com/company/rexven/
+[typescript]: https://www.typescriptlang.org
+[react]: http://reactjs.org
+[tailwind]: https://tailwindcss.com
+[atlassian]: https://atlassian.com
