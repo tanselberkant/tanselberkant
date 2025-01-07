@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tansel</h1>
 
-### Frontend developer at [Rexven][Rexven] who likes javascript and hockey 🏒
+### Frontend developer at [Siu Digital][SiuDigital] who likes javascript and hockey 🏒
 
 <br />
 
@@ -28,7 +28,7 @@
 ![](https://komarev.com/ghpvc/?username=tanselberkant)
 
 [website]: https://tanselberkant.dev
-[Rexven]: https://www.linkedin.com/company/rexven/
+[SiuDigital]: https://www.linkedin.com/company/siudigital
 [typescript]: https://www.typescriptlang.org
 [react]: http://reactjs.org
 [tailwind]: https://tailwindcss.com
